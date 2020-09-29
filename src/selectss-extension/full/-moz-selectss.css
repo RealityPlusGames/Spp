@@ -1,0 +1,57 @@
+/* Red Colors */
+select-ss Red *::-moz-selection{
+	background-color: rgb(255, 0, 0) !important;
+}
+select-ss RedColor *::-moz-selection {
+	color: rgb(255, 1, 1) !important;
+}
+/* Orange Colors */
+select-ss Orange *::-moz-selection{
+	background-color: rgb(255, 127.5, 0) !important;
+}
+select-ss OrangeColor *::-moz-selection {
+	color: rgb(255, 127.5, 1) !important;
+}
+/* Yellow Colors */
+select-ss Yellow *::-moz-selection{
+	background-color: rgb(255, 255, 0) !important;
+}
+select-ss YellowColor *::-moz-selection {
+	color: rgb(255, 255, 1) !important;
+}
+/* Green Colors */
+select-ss Orange *::-moz-selection{
+	background-color: rgb(0, 127, 0) !important;
+}
+select-ss OrangeColor *::-moz-selection {
+	color: rgb(1, 127, 1) !important;
+}
+/* Blue */
+select-ss Orange *::-moz-selection{
+	background-color: rgb(0, 0, 255) !important;
+}
+select-ss OrangeColor *::-moz-selection {
+	color: rgb(1, 1, 255) !important;
+}
+/* Light Blue */
+select-ss Lightblue *::-moz-selection{
+	background-color: rgb(0, 127, 127) !important;
+}
+select-ss LightblueColor *::-moz-selection {
+	color: rgb(1, 127, 127) !important;
+}
+/* Purple */
+select-ss Purple *::-moz-selection{
+	background-color: rgb(127, 0, 255) !important;
+}
+select-ss PurpleColor *::-moz-selection {
+	color: rgb(127, 1, 255) !important;
+}
+/* Pink */
+select-ss Pink *::-moz-selection{
+	background-color: rgb(255, 0, 255) !important;
+}
+select-ss PinkColor *::-moz-selection {
+	color: rgb(255, 1, 255) !important;
+}
+/* Woo-hoo! This is the full and only has 57 lines (v1.0.0)! */
