@@ -1,3 +1,16 @@
+/* ==========================================
+Copyright (c) Reality Plus Games Authors 2020
+S++ Syntax File, before known as StylerML or SML. Original copy on github and repl.it.
+GITHUB:
+github.com/StylerML/SML
+REPL.IT
+repl.it/@StylerML/SML
+---------------------
+Made by same author.
+NO COPY OF THIS FILE IS ALLOWED WITHOUT EXPLICIT PERMISSION FROM AUTHOR (eitan.alperstein@gmail.com).
+Fonts from fonts.google.com
+*/
+
 /* Red Colors */
 select-ss Red *::-moz-selection{
 	background-color: rgb(255, 0, 0) !important;
