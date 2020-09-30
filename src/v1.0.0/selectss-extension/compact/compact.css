@@ -1,0 +1,13 @@
+/* ==========================================
+Copyright (c) Reality Plus Games Authors 2020
+S++ Syntax File, before known as StylerML or SML. Original copy on github and repl.it.
+GITHUB:
+github.com/StylerML/SML
+REPL.IT
+repl.it/@StylerML/SML
+--------------------
+Made by same author.
+NO COPY OF THIS FILE IS ALLOWED WITHOUT EXPLICIT PERMISSION FROM AUTHOR (eitan.alperstein@gmail.com).
+Fonts from fonts.google.com
+*/
+select-ss Red *::selection{background-color:rgb(255,0,0)!important}select-ss Red *::-moz-selection{background-color:rgb(255,0,0)!important}select-ss RedColor *::selection{color:rgb(255,1,1)!important}select-ss RedColor *::-moz-selection{color:rgb(255,1,1)!important}select-ss Orange *::selection{background-color:rgb(255,127.5,0)!important}select-ss Orange *::-moz-selection{background-color:rgb(255,127.5,0)!important}select-ss OrangeColor *::selection{color:rgb(255,127.5,1)!important}select-ss OrangeColor *::-moz-selection{color:rgb(255,127.5,1)!important}select-ss Yellow *::selection{background-color:rgb(255,255,0)!important}select-ss Yellow *::-moz-selection{background-color:rgb(255,255,0)!important}select-ss YellowColor *::selection{color:rgb(255,255,1)!important}select-ss YellowColor *::-moz-selection{color:rgb(255,255,1)!important}select-ss Orange *::selection{background-color:rgb(0,127,0)!important}select-ss Orange *::-moz-selection{background-color:rgb(0,127,0)!important}select-ss OrangeColor *::selection{color:rgb(1,127,1)!important}select-ss OrangeColor *::-moz-selection{color:rgb(1,127,1)!important}select-ss Orange *::selection{background-color:rgb(0,0,255)!important}select-ss Orange *::-moz-selection{background-color:rgb(0,0,255)!important}select-ss OrangeColor *::selection{color:rgb(1,1,255)!important}select-ss OrangeColor *::-moz-selection{color:rgb(1,1,255)!important}select-ss Lightblue *::selection{background-color:rgb(0,127,127)!important}select-ss Lightblue *::-moz-selection{background-color:rgb(0,127,127)!important}select-ss LightblueColor *::selection{color:rgb(1,127,127)!important}select-ss LightblueColor *::-moz-selection{color:rgb(1,127,127)!important}select-ss Purple *::selection{background-color:rgb(127,0,255)!important}select-ss Purple *::-moz-selection{background-color:rgb(127,0,255)!important}select-ss PurpleColor *::selection{color:rgb(127,1,255)!important}select-ss PurpleColor *::-moz-selection{color:rgb(127,1,255)!important}select-ss Pink *::selection{background-color:rgb(255,0,255)!important}select-ss Pink *::-moz-selection{background-color:rgb(255,0,255)!important}select-ss PinkColor *::selection{color:rgb(255,1,255)!important}select-ss PinkColor *::-moz-selection{color:rgb(255,1,255)!important}
