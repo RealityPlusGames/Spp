@@ -4,10 +4,10 @@
 
 Version 1.0.0 is the latest version.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.0.0   | :thumbsup:         |
-| 1.0.1   | :x:                |
+| Version | Supported                  |
+| ------- | -------------------------- |
+| 1.0.0   | :white_check_mark:         |
+| 1.0.1   | :x:                        |
 
 ### Symbols Meaning
 | Symbol             | Meaning                          |
