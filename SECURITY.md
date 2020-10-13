@@ -7,7 +7,7 @@ Version 1.0.0 is the latest version.
 | Version | Supported                  |
 | ------- | -------------------------- |
 | 1.0.0   | :white_check_mark:         |
-| 1.0.1   | :x:                        |
+| 1.0.1   | :thumbsup:                        |
 
 ### Symbols Meaning
 | Symbol             | Meaning                          |
