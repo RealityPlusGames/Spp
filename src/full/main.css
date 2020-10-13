@@ -298,12 +298,3 @@ CodeStyler * {
 	background: black;
 	color: white;
 }
-
-/* HTML overrides */
-p {
-	font-size: 0;
-}
-
-text {
-	font-size: 1rem;
-}
