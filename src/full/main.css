@@ -1,3 +1,4 @@
+@charset "UTF-8"
 /* ==========================================
 Copyright (c) Reality Plus Games Authors 2020
 S++ Syntax File, before known as StylerML or SML. Original copy on github and repl.it.
@@ -297,4 +298,41 @@ Back-White * {
 CodeStyler * {
 	background: black;
 	color: white;
+}
+
+/* v1.1-beta stuff */
+abbr {
+	text-decoration: italic underline;
+}
+
+del {
+	text-decoration: line-through;
+	color: red;
+}
+
+kbd {
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: gray;
+}
+
+mark, highlight, marker {
+	background-color: #ffdf65;
+}
+
+quote {
+	border-left: 3px solid gray;
+	border: 1px solid black;
+}
+
+quote::after {
+	content: "&#8221;"
+}
+
+quote::before {
+	content: "&#8221;"
+}
+
+mono {
+	font-family: monospace;
 }
