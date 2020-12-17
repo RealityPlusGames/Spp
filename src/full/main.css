@@ -345,3 +345,7 @@ quote::before {
 mono {
 	font-family: monospace;
 }
+
+code {
+	background-color: #222;
+}
